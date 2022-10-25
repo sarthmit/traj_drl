@@ -1,4 +1,4 @@
-## Is a Modular Architecture Enough?
+## From Points to Functions: Infinite-dimensional Representations in Diffusion Models
 ___
 This repository contains the official implementation for the paper **[From Points to Functions: Infinite-dimensional Representations in Diffusion Models](to-do)**
 
